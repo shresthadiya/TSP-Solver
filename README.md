@@ -1,13 +1,12 @@
 # TSP-Solver
-Interactive travelling salesman problem solver. 
+Interactive Travelling Salesman Problem Solver
 [Demo](https://andrewb330.github.io/TSP-Solver/)
 
-**WARNING:** The code isn't great at all. It was my university project with a short deadline :) But animations are cool :D
+A university semester project with combined contribution of three people. 
 
 ### Algorithms
-* Branch and bound
-* Simulated annealing
-* (TODO MORE)
+* Branch and Bound
+* Simulated Annealing
 
 
 ![Demo](/images/demo.jpg?raw=true)
