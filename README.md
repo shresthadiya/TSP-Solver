@@ -8,7 +8,7 @@ A university semester project with combined contribution of three people.
 * Branch and Bound
 * Simulated Annealing
 
-####Commands
+#### Commands
 git init
 git add .
 git commit -m "first commit"
